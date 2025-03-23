@@ -61,7 +61,10 @@ To access the AdventureWorks2019 eCommerce dataset in Google BigQuery's public d
 
 Build a PowerBI dashboard and review each part.
 
-## 6. Visualization
+## 6. Data Modeling
+<img width="780" alt="Image" src="https://github.com/user-attachments/assets/5212579d-861e-4655-8da6-95c1a3a928f5" />
+
+## 7. Visualization
 
 ### Overview
 
@@ -78,14 +81,14 @@ The inventory details dashboard provides detailed insights into specific product
 - A comparison between total stock, reorder point, and safety stock level ensures timely replenishment and prevents stockouts.
 - The total order quantity over time visualization helps track product demand trends, allowing better forecasting and procurement planning.
 
-## 6. Insights
+## 8. Insights
 
 - The majority of orders are shipped via Cargo Transport 5 (38%) and Overnight J Fast (27%), while Oversea-Deluxe has the least orders.
 - The product under safety stock level table highlights stock shortages, helping the procurement team track and reorder necessary products.
 - Rejection rate peaked in 2012 at 11.10%, significantly higher than in 2014 (2.09%), showing fluctuations in product quality over time.
 - The scatter plot clearly identifies vendors with high rejection order quantity (SuperStores 6,373) and high price variances (Superior Bicycles 3.94), making it easier to assess supplier performance.
 
-## **7. Recommendations**
+## 9. Recommendations
 
 ### **Improve Shipping & Delivery Performance**
 
